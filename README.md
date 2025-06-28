@@ -92,3 +92,6 @@ I love solving algorithmic puzzles and experimenting with new tech—always lear
 
 ---
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=00FEEF&center=true&width=800&lines=Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad.;Talk+is+cheap.+Show+me+the+code.;Programming+is+the+art+of+algorithm+design+and+the+craft+of+debugging.;Deleted+code+is+debugged+code." />
+</h3>
