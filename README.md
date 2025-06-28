@@ -7,7 +7,7 @@
 
 ---
 
-><p align="center">"Code is like humor. When you have to explain it, it’s bad." – Cory House</p>
+><h5 align="center">"Code is like humor. When you have to explain it, it’s bad." – Cory House</h5>
 
 ---
 
