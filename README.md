@@ -9,6 +9,8 @@
 
 ><p align="center">"Code is like humor. When you have to explain it, it’s bad." – Cory House</p>
 
+---
+
 ## 🧑‍💻 About Me
 
 - 🚀 Passionate **Full Stack Developer** specializing in building robust, scalable web applications with seamless user experiences.
