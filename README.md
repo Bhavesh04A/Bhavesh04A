@@ -1,4 +1,4 @@
-<h1 align="center">Bhavesh Alawane</h1>
+<h1 align="center">Hi 👋, I'm Bhavesh Alawane</h1>
 
 <!-- Typewriter effect for taglines -->
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-## <p align="center">🌐 Let's Connect!</p>
+## 🌐 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhavesh-alawane-80a2a52b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -23,7 +23,6 @@
 
 - 🚀 Passionate **Full Stack Developer** specializing in building robust, scalable web applications with seamless user experiences.
 - 🤖 Enthusiastic about **AI/ML**, with hands-on projects like real-time chatbots and recommendation engines.
-- 🏆 Active **competitive programmer**, regularly participating in coding contests to sharpen problem-solving skills.
 - 🌐 Experienced in deploying and maintaining cloud-based applications using **Vercel** and **AWS**.
 - 🎨 Skilled in crafting visually appealing UIs with modern frameworks and CSS libraries.
 - 📚 Currently exploring advanced backend architectures and integrating AI into production apps.
@@ -78,7 +77,6 @@ For more about my work and projects, check out my [portfolio](https://portfolio-
 
 ## 🏆 Achievements
 
-- Built a real-time **chatbot** and **recommendation engine** using Python and AI/ML techniques.
 - Developed and deployed multiple full-stack web apps, including a dynamic portfolio and e-commerce platforms.
 - Consistently ranked in top tiers of coding competitions on platforms like LeetCode and HackerRank.
 
