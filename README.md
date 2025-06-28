@@ -7,17 +7,7 @@
 
 ---
 
-## 🌐 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhavesh-alawane-80a2a52b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Bhavesh04A"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://portfolio-azure-three-50.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.instagram.com/bhaveshalawane_04/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:bhaveshalawane96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
+<h1 align="center">"Code is like humor. When you have to explain it, it’s bad." – Cory House</h1>
 
 ## 🧑‍💻 About Me
 
@@ -56,6 +46,17 @@ For more about my work and projects, check out my [portfolio](https://portfolio-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 
+---
+
+## 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhavesh-alawane-80a2a52b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Bhavesh04A"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://portfolio-azure-three-50.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.instagram.com/bhaveshalawane_04/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:bhaveshalawane96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -89,4 +90,3 @@ I love solving algorithmic puzzles and experimenting with new tech—always lear
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
