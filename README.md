@@ -53,7 +53,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bhavesh04A&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh04A&layout=compact&theme=radical" height="165" />
-  <img src="https://streak-stats.demolab.com?user=Bhavesh04A&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Bhavesh04A&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="165" />
 </p>
 
 ---
