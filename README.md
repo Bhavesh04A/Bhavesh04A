@@ -7,7 +7,8 @@
 
 ---
 
-><h3 align="center">"Code is like humor. When you have to explain it, it’s bad." – Cory House</h3>
+><h3 align="center">"Programming isn’t about what you know; it’s about what you can figure out."
+– Chris Pine</h3>
 
 ---
 
@@ -91,14 +92,3 @@ For more about my work and projects, check out my [portfolio](https://portfolio-
 I love solving algorithmic puzzles and experimenting with new tech—always learning, always building!
 
 ---
-
-<details>
-  <summary>💬 Favorite Developer Quotes</summary>
-  <br/>
-  <blockquote>
-    <p><strong>"Code is like humor. When you have to explain it, it’s bad."</strong><br/><em>– Cory House</em></p>
-    <p><strong>"To understand recursion, one must first understand recursion."</strong></p>
-    <p><strong>"Simplicity is prerequisite for reliability."</strong><br/><em>– Edsger Dijkstra</em></p>
-  </blockquote>
-</details>
-
