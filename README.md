@@ -55,6 +55,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh04A&layout=compact&theme=radical" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhavesh04A&theme=radical&hide_border=true" height="165" />
+  <img src="https://komarev.com/ghpvc/?username=Bhavesh04A&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+
 ---
 
 ## 🏆 Achievements
