@@ -1,31 +1,48 @@
-<h1 align="center">Hi 👋, I'm Bhavesh Alawane</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=1D976C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Competitive+Programmer;AI+Enthusiast" alt="Typing SVG" /> </p> --- ><h3 align="center"><i>"Programming isn’t about what you know; it’s about what you can figure out."</i> – Chris Pine</h3>
-### 🚀 Building scalable web apps with MERN, AI & Cloud Technologies
+<!-- HEADER SECTION -->
 
-</div>
+<h1 align="center">Hi 👋, I'm Bhavesh Alawane</h1>
+
+<h3 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1D976C&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Competitive+Programmer;AI+%26+Cloud+Enthusiast;Building+Scalable+Web+Applications" 
+    alt="Typing SVG" 
+  />
+</h3>
+
+<p align="center">
+  <i>"Programming isn’t about what you know; it’s about what you can figure out."</i>
+</p>
+
+<p align="center">
+  🚀 Building scalable web apps with MERN, AI & Cloud Technologies
+</p>
+
+<br/>
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/bhavesh-alawane-80a2a52b4/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:bhaveshalawane96@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://portfolio-azure-three-50.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://github.com/Bhavesh04A">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/u/Bhavesh04A/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 <a href="https://www.codechef.com/users/bhavesh_0405">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
 </div>
@@ -33,10 +50,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img 
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" 
+    width="100%" 
+  />
 </div>
-
----
 
 # 👨‍💻 About Me
 
