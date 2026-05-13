@@ -1,41 +1,4 @@
-<!-- UNIQUE MODERN HEADER SECTION -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=3500&pause=800&color=1D976C&center=true&vCenter=true&width=900&height=80&lines=Bhavesh+Alawane;Full+Stack+Developer;AI+%26+Cloud+Enthusiast" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Focused%20On-Full%20Stack%20Development-1D976C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Learning-System%20Design-0d1117?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DSA-150%2B%20Problems-1D976C?style=for-the-badge" />
-
-<br/><br/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhavesh-alawane-80a2a52b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:bhaveshalawane96@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/Bhavesh04A">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://portfolio-azure-three-50.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
-</div>
-
----
-
-<div align="center">
-
+<h1 align="center">Hi 👋, I'm Bhavesh Alawane</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=1D976C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Competitive+Programmer;AI+Enthusiast" alt="Typing SVG" /> </p> --- ><h3 align="center"><i>"Programming isn’t about what you know; it’s about what you can figure out."</i> – Chris Pine</h3>
 ### 🚀 Building scalable web apps with MERN, AI & Cloud Technologies
 
 </div>
