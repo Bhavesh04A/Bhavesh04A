@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 
-<h1 align="center">Hi 👋, I'm Bhavesh Alawane</h1>
+<h1 align="center">Hi, I'm Bhavesh Alawane</h1>
 
 <h3 align="center">
   <img 
@@ -8,10 +8,6 @@
     alt="Typing SVG" 
   />
 </h3>
-
-<p align="center">
-  <i>"Programming isn’t about what you know; it’s about what you can figure out."</i>
-</p>
 
 <p align="center">
   🚀 Building scalable web apps with MERN, AI & Cloud Technologies
