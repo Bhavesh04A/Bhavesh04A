@@ -1,17 +1,44 @@
-<!-- PREMIUM GITHUB PROFILE README FOR BHAVESH ALAWANE -->
+<!-- UNIQUE MODERN HEADER SECTION -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D976C,100:93F9B9&height=220&section=header&text=Bhavesh%20Alawane&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=3500&pause=800&color=1D976C&center=true&vCenter=true&width=900&height=80&lines=Bhavesh+Alawane;Full+Stack+Developer;AI+%26+Cloud+Enthusiast" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Focused%20On-Full%20Stack%20Development-1D976C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Learning-System%20Design-0d1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DSA-150%2B%20Problems-1D976C?style=for-the-badge" />
+
+<br/><br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhavesh-alawane-80a2a52b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:bhaveshalawane96@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Bhavesh04A">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://portfolio-azure-three-50.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
 </div>
-
-<h1 align="center">Hi 👋, I'm Bhavesh Alawane</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=700&color=1D976C&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Developer+🚀;MERN+Stack+Developer;AI+%26+Cloud+Enthusiast;Open+Source+Contributor;LeetCode+150%2B+Problems+Solved;Building+Scalable+Web+Apps" />
-</h3>
 
 ---
 
+<div align="center">
+
+### 🚀 Building scalable web apps with MERN, AI & Cloud Technologies
+
+</div>
 <div align="center">
 
 <a href="https://www.linkedin.com/in/bhavesh-alawane-80a2a52b4/">
