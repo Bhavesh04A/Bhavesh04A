@@ -97,15 +97,25 @@
 
 ---
 
-## 🏥 MedPal — AI Healthcare Assistant
+## 🎫 SmartTicket AI — AI-Powered IT Support Ticket Management
 
-- AI-powered healthcare platform for symptom analysis
-- Doctor appointment booking & chatbot integration
-- Secure authentication and profile management
-- Fully deployed using modern cloud infrastructure
+- AI-powered IT support platform for automated ticket categorization, urgency prediction, and department assignment.
+- Implemented duplicate ticket detection using **TF-IDF**, cosine similarity, and an intelligent knowledge base for solution recommendations.
+- Built secure role-based dashboards with SLA monitoring, ticket analytics, and end-to-end support workflow management.
 
 ### ⚡ Tech Stack
-`ReactJS` `TypeScript` `NodeJS` `MongoDB` `Tailwind CSS`
+`React.js` `Flask` `Python` `MySQL` `Scikit-learn` `NLP` `JWT`
+
+---
+
+## 👥 ProjectPartner — Hackathon Team Matching Platform
+
+- C++ application that matches students with suitable hackathon teams based on skills and interests.
+- Implemented Object-Oriented Programming, STL containers, and file handling for efficient data management.
+- Built intelligent search and recommendation features to simplify team discovery and collaboration.
+
+### ⚡ Tech Stack
+`C++` `OOP` `STL` `File Handling`
 
 ---
 
