@@ -220,7 +220,7 @@ Hackathon Participant
 <td align="center">
 <img src="https://img.icons8.com/color/96/000000/code.png" width="50"/><br/>
 <strong>LeetCode</strong><br/>
-150+ Problems Solved
+200+ Problems Solved
 </td>
 
 <td align="center">
